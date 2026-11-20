@@ -1,0 +1,8 @@
+date,area,pest,severity,action,technician,follow_up_date
+2026-09-03,Kitchen,cockroach,medium,gel bait placed,J. Rivera,2026-09-17
+2026-09-03,Loading dock,rodent,low,traps checked,J. Rivera,
+2026-09-17,Kitchen,cockroach,low,bait refreshed,J. Rivera,2026-10-15
+2026-10-01,Storage room,ant,medium,perimeter spray,M. Chen,2026-10-15
+2026-10-15,Kitchen,cockroach,none,no activity,J. Rivera,
+2026-10-15,Storage room,ant,high,nest treated and sealed,M. Chen,2026-10-29
+2026-11-05,Loading dock,rodent,high,door sweep replaced and traps added,M. Chen,2026-11-12

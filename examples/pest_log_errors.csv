@@ -1,0 +1,5 @@
+date,area,pest,severity,action,technician,follow_up_date
+2026-11-01,Kitchen,cockroach,medium,gel bait placed,J. Rivera,
+2026-11-02,Lobby,mouse,severe,traps set,M. Chen,2026-11-09
+11/03/2026,Lobby,ant,low,spray,M. Chen,
+2026-11-10,Storage room,ant,medium,spray,M. Chen,2026-11-03

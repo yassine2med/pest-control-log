@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="pest-control-log" width="100%"></p>
+
 # pest-control-log
 
 Pest control contractors visit, but the record of what they found and what must happen next often lives on paper. This repo is a small visit log in plain CSV with validation, an area summary and a follow-up tracker that tells you which re-visits are overdue.

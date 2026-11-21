@@ -2,6 +2,8 @@
 
 # pest-control-log
 
+[![CI](https://github.com/yassine2med/pest-control-log/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/pest-control-log/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Pest control contractors visit, but the record of what they found and what must happen next often lives on paper. This repo is a small visit log in plain CSV with validation, an area summary and a follow-up tracker that tells you which re-visits are overdue.
 
 ![Screenshot](docs/screenshot.png)
